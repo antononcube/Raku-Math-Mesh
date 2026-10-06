@@ -1,0 +1,24 @@
+{
+    "name": "Math::Mesh",
+    "description": "Package with construction of meshes like Voronoi diagram or Delaunay triangulation.",
+    "version": "0.0.1",
+    "authors": [
+        "Anton Antonov"
+    ],
+    "auth": "zef:antononcube",
+    "build-depends": [],
+    "provides": {
+        "Math::Mesh": "lib/Math/Mesh.rakumod"
+    },
+    "license": "Artistic-2.0",
+    "tags": [
+        "delaunay",
+        "delaunay-triangulation",
+        "mesh",
+        "triangulation",
+        "voronoi",
+        "voronoi-diagram"
+    ],
+    "api": "0",
+    "source-url": "https://github.com/antononcube/Raku-Math-Mesh.git"
+}
